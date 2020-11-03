@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I am a passionate fullstack Software Engineer.
+I am a passionate `Fullstack Software Engineer` from Anuradhapura, Sri Lanka.
 
-I code in Java (Springboot), React.JS, Golang and Python. Writing Microservices is my main task at work, apart from that Docker and Postgres play key role in my daily tasks. Designing is what I enjoy most.
+I code in `Java` , `Javascript`, `Golang` and `Python`. Developing `microservices` is my main task at work, also I use `Docker` for CI/CD and `Postgres` for databasing. Designing and learning new technologies is what I enjoy most. I do many side projects :) in free time. 
 
-I do many side projects :) in free time. 
-
-When I am not coding , I do reading, meditation or over thinking about something - yeah, about anything.
+When I am not sticking to a screen , I might be doing reading, meditation or over thinking about something - yeah, about anything.
