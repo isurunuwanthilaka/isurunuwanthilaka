@@ -7,3 +7,5 @@ Blogging at [here](https://isurunuwanthilaka.github.io).
 Open for the next challenging opportunity. Look at my [resume](https://isurunuwanthilaka.github.io/docs/cv/resume.pdf).
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=isurunuwanthilaka)](https://isurunuwanthilaka.github.io/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isurunuwanthilaka&layout=compact)](https://isurunuwanthilaka.github.io/)
