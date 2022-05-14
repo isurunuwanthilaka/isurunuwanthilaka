@@ -2,6 +2,6 @@
 
 I am a Software Engineer II , I build Software - all day, every day!.
 
-I talk about technologies,software architectures,practices and some more interesting topics at [here](https://isurunuwanthilaka.github.io).
+I talk about technologies,software architectures,practices and some more interesting topics at [here](https://isurunuwanthilaka.github.io/#/blog).
 
-Open for the next challenging opportunity. Look at my [resume](https://isurunuwanthilaka.github.io/docs/cv/resume.pdf).
+Open for the next challenging opportunity. Look at my [resume](https://isurunuwanthilaka.github.io).
