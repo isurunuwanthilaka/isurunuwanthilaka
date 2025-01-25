@@ -16,7 +16,7 @@ I'm a passionate Software Engineer who lives and breathes code! Building softwar
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isurunuwanthilaka&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurunuwanthilaka&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=isurunuwanthilaka&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🛠️ Technologies & Tools
